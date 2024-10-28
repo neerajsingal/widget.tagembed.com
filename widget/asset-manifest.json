@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://widget.tagembed.com/widget/static/css/main.56dd219e.css",
-    "main.js": "https://widget.tagembed.com/widget/static/js/main.1f1adbf2.js",
+    "main.js": "https://widget.tagembed.com/widget/static/js/main.61e1f028.js",
     "static/js/7774.3f8dd80f.chunk.js": "https://widget.tagembed.com/widget/static/js/7774.3f8dd80f.chunk.js",
     "static/js/4355.382559a4.chunk.js": "https://widget.tagembed.com/widget/static/js/4355.382559a4.chunk.js",
     "static/js/3032.796a69e2.chunk.js": "https://widget.tagembed.com/widget/static/js/3032.796a69e2.chunk.js",
@@ -48,13 +48,13 @@
     "static/js/8257.4f11277a.chunk.js": "https://widget.tagembed.com/widget/static/js/8257.4f11277a.chunk.js",
     "static/js/3779.3f66fe59.chunk.js": "https://widget.tagembed.com/widget/static/js/3779.3f66fe59.chunk.js",
     "static/css/2817.1aee7dc5.chunk.css": "https://widget.tagembed.com/widget/static/css/2817.1aee7dc5.chunk.css",
-    "static/js/2817.0a6231fc.chunk.js": "https://widget.tagembed.com/widget/static/js/2817.0a6231fc.chunk.js",
+    "static/js/2817.30e59e6b.chunk.js": "https://widget.tagembed.com/widget/static/js/2817.30e59e6b.chunk.js",
     "static/css/5452.b38a568e.chunk.css": "https://widget.tagembed.com/widget/static/css/5452.b38a568e.chunk.css",
-    "static/js/5452.ee9eb8e2.chunk.js": "https://widget.tagembed.com/widget/static/js/5452.ee9eb8e2.chunk.js",
+    "static/js/5452.bccc7200.chunk.js": "https://widget.tagembed.com/widget/static/js/5452.bccc7200.chunk.js",
     "static/css/3765.43fbb6b9.chunk.css": "https://widget.tagembed.com/widget/static/css/3765.43fbb6b9.chunk.css",
     "static/js/3765.4eef3f3d.chunk.js": "https://widget.tagembed.com/widget/static/js/3765.4eef3f3d.chunk.js",
     "static/css/4119.1455dcf0.chunk.css": "https://widget.tagembed.com/widget/static/css/4119.1455dcf0.chunk.css",
-    "static/js/4119.f1a4d01a.chunk.js": "https://widget.tagembed.com/widget/static/js/4119.f1a4d01a.chunk.js",
+    "static/js/4119.c6f734d5.chunk.js": "https://widget.tagembed.com/widget/static/js/4119.c6f734d5.chunk.js",
     "static/css/271.259029b3.chunk.css": "https://widget.tagembed.com/widget/static/css/271.259029b3.chunk.css",
     "static/js/271.b0f6554e.chunk.js": "https://widget.tagembed.com/widget/static/js/271.b0f6554e.chunk.js",
     "static/css/2314.0b829a18.chunk.css": "https://widget.tagembed.com/widget/static/css/2314.0b829a18.chunk.css",
@@ -78,13 +78,13 @@
     "static/css/7694.de39f026.chunk.css": "https://widget.tagembed.com/widget/static/css/7694.de39f026.chunk.css",
     "static/js/7694.5e559da2.chunk.js": "https://widget.tagembed.com/widget/static/js/7694.5e559da2.chunk.js",
     "static/css/8635.58823901.chunk.css": "https://widget.tagembed.com/widget/static/css/8635.58823901.chunk.css",
-    "static/js/8635.74100687.chunk.js": "https://widget.tagembed.com/widget/static/js/8635.74100687.chunk.js",
+    "static/js/8635.f7b3ec77.chunk.js": "https://widget.tagembed.com/widget/static/js/8635.f7b3ec77.chunk.js",
     "static/css/441.37a1928b.chunk.css": "https://widget.tagembed.com/widget/static/css/441.37a1928b.chunk.css",
     "static/js/441.8c118cee.chunk.js": "https://widget.tagembed.com/widget/static/js/441.8c118cee.chunk.js",
     "static/css/7970.84bb0c22.chunk.css": "https://widget.tagembed.com/widget/static/css/7970.84bb0c22.chunk.css",
     "static/js/7970.aed515ef.chunk.js": "https://widget.tagembed.com/widget/static/js/7970.aed515ef.chunk.js",
     "static/css/5881.535b815b.chunk.css": "https://widget.tagembed.com/widget/static/css/5881.535b815b.chunk.css",
-    "static/js/5881.2b1d07c2.chunk.js": "https://widget.tagembed.com/widget/static/js/5881.2b1d07c2.chunk.js",
+    "static/js/5881.6230f71f.chunk.js": "https://widget.tagembed.com/widget/static/js/5881.6230f71f.chunk.js",
     "static/css/7329.d518fba7.chunk.css": "https://widget.tagembed.com/widget/static/css/7329.d518fba7.chunk.css",
     "static/js/7329.4f391396.chunk.js": "https://widget.tagembed.com/widget/static/js/7329.4f391396.chunk.js",
     "reactPlayerYouTube.js": "https://widget.tagembed.com/widget/static/js/reactPlayerYouTube.fe3f95a3.chunk.js",
@@ -135,6 +135,6 @@
   },
   "entrypoints": [
     "static/css/main.56dd219e.css",
-    "static/js/main.1f1adbf2.js"
+    "static/js/main.61e1f028.js"
   ]
 }
