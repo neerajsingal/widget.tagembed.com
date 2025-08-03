@@ -39,9 +39,8 @@
           "*"
         ),
           (messageSent = !0);
-      }
+      
       window.addEventListener("message", (e) => {
-        console.log(e,'sdfklsldfjlkdsjflk')
         if (e?.data && "tokenReceived" == e?.data?.type) {
           const { token: t } = JSON.parse(e?.data?.data) || {},
             a = t.token ? t.token : t;
@@ -49,6 +48,7 @@
             localStorage.setItem("token", a);
         }
       });
+    }
     </script>
     <script
       defer="defer"
