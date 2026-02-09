@@ -27,13 +27,13 @@
     <script></script>
     <script>let messageSent = !1; if (window.location.href.includes("editor") && !messageSent) { const e = { url: window.location.href }; window.parent.postMessage({ type: "tokenRequest", data: JSON.stringify(e) }, "*"), messageSent = !0 } window.addEventListener("message", e => { if (e?.data && "tokenReceived" == e?.data?.type) { const { token: t } = JSON.parse(e?.data?.data) || {}, a = t.token ? t.token : t; localStorage.getItem("token") !== a && localStorage.setItem("token", a) } })</script>
     <script defer="defer"
-        src="https://widget.tagembed.com/widget/static/js/main.9927d9191b8f54f56d4b.js?v=202601230639"></script>
-    <link href="https://widget.tagembed.com/widget/static/css/main.8381ffcb8aa8625b4e2f.css?v=202601230639"
+        src="https://widget.tagembed.com/widget/static/js/main.7070e3682513c65873cc.js?v=202602090710"></script>
+    <link href="https://widget.tagembed.com/widget/static/css/main.8381ffcb8aa8625b4e2f.css?v=202602090710"
         rel="stylesheet">
 </head>
 
 <body><noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="tag_main__root" role="main" aritaggbox_main="Embed content"></div>
+    <div id="taggbox_main" role="main" aritaggbox_main="Embed content"></div>
 </body>
 
 </html>
